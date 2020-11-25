@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Revealact.io</title>
+  </head>
+  <body>
+    <p>Welcome to Revealact.io ! <strong>Coaching as its purest nature!</strong></p>
+    <p>Bienvenue chez Revealact.io <strong>Le coachgin à l'état pur!</strong></p>
+  </body>
+</html>
