@@ -5,11 +5,11 @@
     <title>Revealact.io</title>
   </head>
   <body>
-    <p style="text-align: left;"><img src="img/revealactio_logo.jpg" alt="Revealact.io logo"
-        title="Revealact.io" width="80%"><br>
-    </p>
-    <p style="text-align: left; margin-left: 40px;"><span style="font-family: Calibri;">Version:
-        2020.12.01-001&nbsp;
-      </span></p>
+    <p style="text-align: left;"><img src="img/revealactio_logo.jpg" alt="Revealact.io logo"
+
+        title="Revealact.io" width="80%"></p>
+    <img src="img/keywords_img.jpg" alt="Keywords" title="Keywords" width="80%">
+    <p style="text-align: left; margin-left: 40px;"><b><span style="font-family: Calibri;">Version:
+          2020.12.01-001&nbsp; </span></b></p>
   </body>
 </html>
